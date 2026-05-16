@@ -7,7 +7,7 @@ import win32com.client
 import os
 import time
 
-pptx_path = os.path.abspath('fraud_detection_ppt.pptx')
+pptx_path = os.path.abspath('신용카드_이상거래_탐지.pptx')
 output_dir = os.path.abspath('assets/slides')
 
 os.makedirs(output_dir, exist_ok=True)
