@@ -569,7 +569,7 @@ add_textbox(slide, '데이터의 특성을 이해하고, 모델에 맞는 전략
 # ══════════════════════════════════════════════════════════════
 # 저장
 # ══════════════════════════════════════════════════════════════
-output_path = r'c:\Users\Kim SoonHa\Desktop\Code\portfolio_project\fraud_detection\신용카드_이상거래_탐지.pptx'
+output_path = r'c:\Users\Kim SoonHa\Desktop\Code\portfolio_project\fraud_detection\fraud_detection_ppt.pptx'
 prs.save(output_path)
 print(f'PPT 저장 완료: {output_path}')
 print(f'총 슬라이드 수: {len(prs.slides)}장')

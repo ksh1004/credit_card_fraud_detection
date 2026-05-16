@@ -250,3 +250,16 @@ jupyter notebook notebooks/fraud_detection.ipynb
 - **모델**: Scikit-learn, XGBoost, LightGBM
 - **불균형 처리**: Imbalanced-learn (SMOTE)
 - **시각화**: Matplotlib, Seaborn
+
+---
+
+## 🖼️ 발표 슬라이드
+
+| | |
+|:---:|:---:|
+| ![slide 01](assets/slides/slide_01.png) | ![slide 02](assets/slides/slide_02.png) |
+| ![slide 03](assets/slides/slide_03.png) | ![slide 04](assets/slides/slide_04.png) |
+| ![slide 05](assets/slides/slide_05.png) | ![slide 06](assets/slides/slide_06.png) |
+| ![slide 07](assets/slides/slide_07.png) | ![slide 08](assets/slides/slide_08.png) |
+| ![slide 09](assets/slides/slide_09.png) | ![slide 10](assets/slides/slide_10.png) |
+| ![slide 11](assets/slides/slide_11.png) | |
