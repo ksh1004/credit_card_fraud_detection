@@ -261,5 +261,4 @@ jupyter notebook notebooks/fraud_detection.ipynb
 | ![slide 03](assets/slides/slide_03.png) | ![slide 04](assets/slides/slide_04.png) |
 | ![slide 05](assets/slides/slide_05.png) | ![slide 06](assets/slides/slide_06.png) |
 | ![slide 07](assets/slides/slide_07.png) | ![slide 08](assets/slides/slide_08.png) |
-| ![slide 09](assets/slides/slide_09.png) | ![slide 10](assets/slides/slide_10.png) |
-| ![slide 11](assets/slides/slide_11.png) | |
+| ![slide 09](assets/slides/slide_09.png) | |
